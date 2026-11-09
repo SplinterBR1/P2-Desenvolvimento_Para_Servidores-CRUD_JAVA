@@ -1,3 +1,6 @@
+# Desenvolvimento Para Servidores - FATEC de São Roque
+- Aluno: Bruno Henrique Rosa da Silva
+
 # Sistema de Autenticação de Usuários (CRUD Swing + JDBC)
 
 Sistema desktop desenvolvido em Java utilizando Java Swing para a interface gráfica e JDBC para persistência de dados em banco de dados MySQL. A aplicação contempla operações completas de cadastro, autenticação (login), alteração de dados e exclusão de contas com criptografia de senha via MD5 no próprio banco de dados.
